@@ -1,0 +1,1 @@
+# Satellite-Image-Land-Cover-Classification-using-DINOv2
